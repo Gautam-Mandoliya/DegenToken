@@ -22,7 +22,7 @@ Clone the repository to vs code-->
 2. For compilation and deplyment of contract on fuji test network, run: npx hardhat run scripts/mint.js --network fuji
  
 `You should see a printout in the console similar to this:`
-                           npx hardhat run scripts/mint.js --network fuji
-                           
-                           Points token deployed to -YOUR TOKEN ADDRESS-
+npx hardhat run scripts/mint.js --network fuji
+
+Points token deployed to -YOUR TOKEN ADDRESS-
 
