@@ -46,6 +46,15 @@ npx hardhat run scripts/mint.js --network fuji
 *(Now everything is connected and good to go for tesing)*
 
 ## Executing program
+Interact with the smart contract on Remix IDE interface and simply engage with all function
+while understanding the code.
+
+Or simply you can watch a walkthrough video of this project. Link :https://veed.io/view/f6be66b6-dfd2-445b-b3ec-edf752dbdc9a
+
+## Authors
+Gautam Mandoliya
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
 
