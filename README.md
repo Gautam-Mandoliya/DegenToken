@@ -24,7 +24,7 @@ Clone the repository to vs code-->
 `You should see a printout in the console similar to this:`
 npx hardhat run scripts/mint.js --network fuji
 
-Points token deployed to -YOUR TOKEN ADDRESS-
+*Points token deployed to -YOUR TOKEN ADDRESS-*
 
 3. Then paste -YOUR TOKEN ADDRESS- on `snowtrace`(Testnet).
 4. Remix Deployment:
@@ -43,6 +43,10 @@ Points token deployed to -YOUR TOKEN ADDRESS-
 
 -Paste -YOUR TOKEN ADDRESS- into `At Address` field under Deploy button and hit enter. 
 
-*Now everything is connected and good to go for tesing*
+*(Now everything is connected and good to go for tesing)*
+
+## Executing program
+
+
 
 
