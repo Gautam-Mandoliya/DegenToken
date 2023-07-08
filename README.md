@@ -23,5 +23,6 @@ Clone the repository to vs code-->
  
 `You should see a printout in the console similar to this:`
                            npx hardhat run scripts/mint.js --network fuji
+                           
                            Points token deployed to -YOUR TOKEN ADDRESS-
 
