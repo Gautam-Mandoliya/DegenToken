@@ -26,3 +26,13 @@ npx hardhat run scripts/mint.js --network fuji
 
 Points token deployed to -YOUR TOKEN ADDRESS-
 
+3. Then paste -YOUR TOKEN ADDRESS- on `snowtrace`(Testnet).
+4. Remix Deployment:
+
+Open Remix, an online Solidity IDE.
+Copy and paste the "Degen_token" contract code into a new file in Remix.
+Compile the contract by selecting the appropriate compiler version (e.g., Solidity 0.8.18).
+Choose the "Injected Web3" environment in the Remix environment dropdown.
+Click on the "Deploy" tab and select the "Degen_token" contract from the dropdown.
+Click on the "Deploy" button to deploy the contract on the Fuji Testnet. Take note of the contract address provided by Remix.
+
