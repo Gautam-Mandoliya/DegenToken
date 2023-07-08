@@ -20,6 +20,7 @@ Please refer to the contract code for detailed information about each function a
 Clone the repository to vs code-->
 1. After cloning run command: ` npm init -y `
 2. For compilation and deplyment of contract on fuji test network, run: npx hardhat run scripts/mint.js --network fuji
+   
 ` You should see a printout in the console similar to this: 
 npx hardhat run scripts/mint.js --network fuji
 Points token deployed to <YOUR TOKEN ADDRESS> `
